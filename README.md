@@ -1,5 +1,7 @@
 # GommeHD.net Style Guide
 
+Note: This is a Brainstorming and Work in Progress State for a maybe upcoming update. This is not the style we're currently using.
+
 ## Formatting
 
 Indent using 2 Spaces (including continuous indents)
